@@ -1,0 +1,16 @@
+name: flutter_prompt_pay
+description: A Flutter package for generate prompt pay QR code or raw data using in Flutter apps. 
+version: 0.0.1
+author: WindzTrumpet <chinapat.dev@gmail.com>
+homepage: https://github.com/WindzTrumpet/flutter_prompt_pay
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
